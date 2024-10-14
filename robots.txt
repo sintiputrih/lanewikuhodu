@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://lanewikuhodu.pages.dev/sitemap.xml
